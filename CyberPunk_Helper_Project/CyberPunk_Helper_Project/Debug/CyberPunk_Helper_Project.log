@@ -1,0 +1,5 @@
+﻿  NPC.cpp
+C:\Users\Admin\source\repos\CyberPunk_Helper_Project\CyberPunk_Helper_Project\NPC.cpp(2,9): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Admin\source\repos\CyberPunk_Helper_Project\CyberPunk_Helper_Project\NPC.cpp(3,9): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Admin\source\repos\CyberPunk_Helper_Project\CyberPunk_Helper_Project\NPC.cpp(20,17): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  CyberPunk_Helper_Project.vcxproj -> C:\Users\Admin\source\repos\CyberPunk_Helper_Project\Debug\CyberPunk_Helper_Project.exe
